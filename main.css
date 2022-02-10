@@ -21,10 +21,8 @@
 :root .threadSidebar-1o3BTy::before {
   content: "Thread";
   position: absolute;
-  top: -60px;
   z-index: 1;
   width: 100%;
-  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -58,7 +56,6 @@
   position: absolute;
   top: 1px;
   bottom: 1px;
-  left: -10px;
   width: 0px;
   border: solid;
   border-width: 0 0 0 6px;
